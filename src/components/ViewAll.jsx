@@ -4,7 +4,7 @@ import NavBar from './NavBar'
 const ViewAll = () => {
   return (
     <div>
-        <br></br>
+        
         <NavBar/>
         <div className="container">
             <div className="row g-3">
